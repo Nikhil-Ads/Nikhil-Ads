@@ -8,7 +8,7 @@ Previously at **Amazon**, where I built 0→1 automated patching systems and ML-
 📍 San Francisco Bay Area &nbsp;·&nbsp; 🚀 Open to AI Engineering roles
 
 ## 🌐 Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-ads) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nikads833) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nik.the_enthusiast) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nikstrawhat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikads833@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-ads) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nikads833) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nik.the_enthusiast) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nikstrawhat) [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?logo=streamlit&logoColor=white)](https://share.streamlit.io/user/nikhil-ads) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikads833@gmail.com)
 
 ---
 
@@ -23,8 +23,14 @@ Previously at **Amazon**, where I built 0→1 automated patching systems and ML-
 ## 🚀 Featured Projects
 
 [![ResoPrism](https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Ads&repo=ResoPrism&theme=dark)](https://github.com/Nikhil-Ads/ResoPrism)
-[![Cannondale-Business-Intelligence-Agent](https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Ads&repo=Cannondale-Business-Intelligence-Agent&theme=dark)](https://github.com/Nikhil-Ads/Cannondale-Business-Intelligence-Agent)
 [![Cloudmart](https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Ads&repo=Cloudmart&theme=dark)](https://github.com/Nikhil-Ads/Cloudmart)
+
+---
+
+## 🌍 Open Source Contributions
+
+- **[Hakadorio](https://github.com/therogue/hakadorio-community)** — Contributing to a local-first task manager with AI-powered task management (Python/FastAPI backend + TypeScript frontend). Built with Anthropic's Claude API for natural language task creation and management.
+- **[ResoPrism](https://github.com/Nikhil-Ads/ResoPrism)** — Co-created at the MongoDB Agentic Orchestration Hackathon (Cerebral Valley, SF). Multi-agent research assistant using LangGraph orchestration, OpenAI-powered keyword extraction, and MongoDB Atlas for intelligent caching. Agents search grants, papers, and news in parallel with deterministic ranking.
 
 ---
 
