@@ -32,6 +32,13 @@ Conversational business intelligence layer over structured product data. RAG pip
 
 ---
 
+## 🌍 Open Source Contributions
+
+- **[Hakadorio](https://github.com/therogue/hakadorio-community)** — Contributing to a local-first task manager with AI-powered task management (Python/FastAPI backend + TypeScript frontend). Built with Anthropic's Claude API for natural language task creation and management.
+- **[ResoPrism](https://github.com/Nikhil-Ads/ResoPrism)** — Co-created at the MongoDB Agentic Orchestration Hackathon (Cerebral Valley, SF). Multi-agent research assistant using LangGraph orchestration, OpenAI-powered keyword extraction, and MongoDB Atlas for intelligent caching. Agents search grants, papers, and news in parallel with deterministic ranking.
+
+---
+
 ## 🔨 Currently Building
 
 **Job Application Agent** — Fully automated application pipeline using LangGraph, n8n, and OpenClaw on a self-hosted Mac Mini. Reads job postings, tailors resume/cover letter via Claude API, submits — with a human-in-the-loop review step before anything goes out.
