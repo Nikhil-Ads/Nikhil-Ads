@@ -53,7 +53,7 @@ Previously at **Amazon**, where I built 0→1 automated patching systems and ML-
 ## 📊 GitHub Stats
 
 ![Stats](./profile/stats.svg)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nikhil-Ads&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats-puce-sigma.vercel.app/?user=Nikhil-Ads&theme=dark&hide_border=false)<br/>
 ![Top Languages](./profile/top-langs.svg)
 
 ---
