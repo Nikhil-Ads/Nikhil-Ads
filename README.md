@@ -91,7 +91,7 @@ Conversational business intelligence layer over structured product data. RAG pip
 <table align="center" width="100%">
   <tr>
     <td width="55%" align="center">
-      <img src="https://github-readme-streak-stats-puce-sigma.vercel.app/?user=Nikhil-Ads&theme=tokyonight&hide_border=true" width="100%" />
+      <img src="https://github-readme-streak-stats-puce-sigma.vercel.app/?user=Nikhil-Ads&theme=tokyonight&hide_border=false&v=2" width="100%" />
     </td>
     <td width="45%" align="center">
       <img src="./profile/stats.svg" width="100%" />
