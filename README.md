@@ -20,15 +20,15 @@ Multi-agent research assistant built at the **MongoDB Agentic Orchestration Hack
 
 `LangGraph` · `MongoDB Atlas` · `OpenAI` · `Python`
 
-### [Time Series Forecast AI Copilot](https://ts-forecasting-copilot.streamlit.app/)
+### [Time Series Forecast AI Copilot (Demo on Streamlit)](https://ts-forecasting-copilot.streamlit.app/)
 Production-deployed forecasting assistant on Streamlit Community Cloud. Accepts arbitrary time series data and returns forecasts with natural-language explanations — built for analysts who shouldn't need to know what SARIMA is.
 
-`Streamlit` · `Python` · `LLMs` · `Time Series`
+`LangGraph` · `Multi-Agent System` · `RAG` · `Python` · `LLMs` · `Time Series`
 
-### [Cannondale BI Agent](https://cannondale-bi-agent.streamlit.app)
+### [Cannondale BI Agent (Demo on Streamlit)](https://cannondale-bi-agent.streamlit.app)
 Conversational business intelligence layer over structured product data. RAG pipeline with ChromaDB embeddings, LangGraph for multi-turn memory, GPT-4o-mini for generation. Designed to answer questions a sales rep would actually ask, not just "summarize this table."
 
-`LangGraph` · `ChromaDB` · `GPT-4o-mini` · `Streamlit`
+`LangGraph` · `Agentic Workflow` · `Advanced RAG` · `Critical Thinking` · `Conversation Streaming` · `Advanced Chatting Features` · `AI Explainability` · `ChromaDB` · `Multi-model support` · `Python`
 
 ---
 
