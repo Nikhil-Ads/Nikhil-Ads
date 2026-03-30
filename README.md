@@ -25,7 +25,7 @@ Production-deployed forecasting assistant on Streamlit Community Cloud. Accepts 
 
 `Streamlit` · `Python` · `LLMs` · `Time Series`
 
-### [Cannondale BI Agent](https://cannondale-business-intelligence-agent.streamlit.app/)
+### [Cannondale BI Agent](https://cannondale-bi-agent.streamlit.app)
 Conversational business intelligence layer over structured product data. RAG pipeline with ChromaDB embeddings, LangGraph for multi-turn memory, GPT-4o-mini for generation. Designed to answer questions a sales rep would actually ask, not just "summarize this table."
 
 `LangGraph` · `ChromaDB` · `GPT-4o-mini` · `Streamlit`
