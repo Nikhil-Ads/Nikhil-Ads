@@ -25,10 +25,10 @@ Production-deployed forecasting assistant on Streamlit Community Cloud. Accepts 
 
 `LangGraph` · `Multi-Agent System` · `RAG` · `Python` · `LLMs` · `Time Series`
 
-### [Cannondale BI Agent (Demo on Streamlit)](https://cannondale-bi-agent.streamlit.app)
+### [Cannondale BI Agent v1.1 (Demo on Streamlit)](https://cannondale-bi-agent.streamlit.app)
 Conversational business intelligence layer over structured product data. RAG pipeline with ChromaDB embeddings, LangGraph for multi-turn memory, GPT-4o-mini for generation. Designed to answer questions a sales rep would actually ask, not just "summarize this table."
 
-`LangGraph` · `Agentic Workflow` · `Advanced RAG` · `Critical Thinking` · `Conversation Streaming` · `Advanced Chatting Features` · `AI Explainability` · `ChromaDB` · `Multi-model support` · `Python`
+`LangGraph` · `Agentic Workflow` · `Advanced RAG` · `Critical Thinking` · `Conversation Streaming` · `Advanced Chatting Features` · `AI Explainability` · `ChromaDB` · `Multi-model support` · `RAG Evaluations` · `Human Feedback and Confidence Scoring`  · `Python` 
 
 ---
 
@@ -46,6 +46,8 @@ Conversational business intelligence layer over structured product data. RAG pip
 **Local AI Infrastructure** — n8n + Ollama + Claude API running on personal hardware. Exploring what changes when inference has no rate limits, no latency overhead, and no per-token cost.
 
 **Content Automation** — LLM pipelines that turn rough notes into polished LinkedIn posts, maintaining voice consistency across drafts.
+
+**New Updates every month.**
 
 ---
 
