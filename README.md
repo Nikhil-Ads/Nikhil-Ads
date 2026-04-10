@@ -30,6 +30,11 @@ Conversational business intelligence layer over structured product data. RAG pip
 
 `LangGraph` · `Agentic Workflow` · `Advanced RAG` · `Critical Thinking` · `Conversation Streaming` · `Advanced Chatting Features` · `AI Explainability` · `ChromaDB` · `Multi-model support` · `RAG Evaluations` · `Human Feedback and Confidence Scoring`  · `Python` 
 
+### [𝗗𝗮𝘁𝗮𝗦𝗰𝗶𝗲𝗻𝗰𝗲𝗚𝗣𝗧 (Demo on Streamlit)](https://data-science-solution-agent.streamlit.app/)
+DataScienceGPT is an AI copilot that compresses that entire Data Exploration and ML solution development into minutes. AI-powered Data Science team that can create ML solutions by applying Data Science techniques and employing a bunch of Data Science agents to do the job.
+
+`LangGraph (multi-agent orchestration)` · `RAG with ChromaDB` · `FLAML AutoML` · `OpenAI` · `Tool Calling` · `Plotly` · `Model Explainability` · `Streamlit` · `Multi-model support` · `Human-in-the-loop` · `Python` 
+
 ---
 
 ## 🌍 Open Source Contributions
