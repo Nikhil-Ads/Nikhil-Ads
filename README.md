@@ -98,7 +98,7 @@ DataScienceGPT is an AI copilot that compresses that entire Data Exploration and
 <table align="center" width="100%">
   <tr>
     <td width="55%" align="center">
-      <img src="https://github-readme-streak-stats-puce-sigma.vercel.app/?user=Nikhil-Ads&theme=tokyonight&hide_border=false&v=2" width="100%" />
+      <img src="https://github-readme-streak-stats-puce-sigma.vercel.app/?user=Nikhil-Ads&theme=tokyonight&hide_border=false&v=3" width="100%" />
     </td>
     <td width="45%" align="center">
       <img src="./profile/stats.svg" width="100%" />
