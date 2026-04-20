@@ -10,7 +10,7 @@ Senior ML Engineer at **BlackLine** (FinTech), previously at **Amazon** where I 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nikads833)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?logo=streamlit&logoColor=white)](https://share.streamlit.io/user/nikhil-ads)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikads833@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nik-adlakha.vercel.app/)
 ---
 
 ## 🚀 Featured Projects
