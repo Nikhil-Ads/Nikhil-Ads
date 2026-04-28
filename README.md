@@ -62,6 +62,7 @@ DataScienceGPT is an AI copilot that compresses that entire Data Exploration and
 - Structured output reliability in production RAG pipelines
 - Evaluation frameworks for multi-agent systems (beyond vibes-based testing)
 - Foundation model fine-tuning for domain-specific reasoning
+- Context caching, advanced RAG techniques to make RAG systems more powerful.
 
 ---
 
