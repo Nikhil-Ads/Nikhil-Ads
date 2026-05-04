@@ -1,8 +1,8 @@
-# Nikhil Adlakha — ML Engineer · AI Builder
+# Nikhil Adlakha — AI Engineer · AI Builder
 
 > Building systems where LLMs stop being demos and start being infrastructure.
 
-Senior ML Engineer at **BlackLine** (FinTech), previously at **Amazon** where I built 0→1 automated patching pipelines and ML-based early warning systems for AWS service reliability. Master's in AI from University of Cincinnati. AWS Certified ML Engineer.
+Senior AI Engineer at **BlackLine** (FinTech), previously at **Amazon** where I built 0→1 automated patching pipelines and ML-based early warning systems for AWS service reliability. Master's in AI from University of Cincinnati. AWS Certified ML Engineer.
 
 📍 San Francisco Bay Area &nbsp;·&nbsp; 🚀 Open to AI Engineering roles
 
